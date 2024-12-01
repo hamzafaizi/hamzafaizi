@@ -5,18 +5,18 @@
 ## **About Me**
 <!-- markdownlint-disable MD013 -->
 - Hi all :heart:, My Name is Hamza Faizi. I am originally from Afghanistan but was born in Washington State.Family and I returned to Afghanistan when I was 5 years old, I spent most of my life there. Two years ago, I returned back to United states and finished my High School through [Running Start Program](https://en.wikipedia.org/wiki/Running_Start). Now, I am here with my family in uae. :love:
-:anxious face with sweat:
+:cold_sweat:
 
 ---
 
-## Why I am learning to code? :laptop: :coding:
+## Why I am learning to code? :computer: :man_technologist:
 
 I want to learn coding because I want to become a great data scientist and use my skills to make great impact on the world.
 By learning to code I will be able to solve complex problems, analyze data, and create solutions that will improve people's lives. I am eager to use technology to address issues like education inequality and access to information. learning to code will not only help me build a career but will also equip me with tools to create opportunities for others.
 
 ---
 
- ## My Goal :roller coaster
+ ## My Goal :rocket:
 
 One of my goals is to create a free online resources and courses for people in Afghanistan and other underprivileged regions who don't have the means to attend universities and can not afford paid certifications. Through coding and data science, I aim to:
 
@@ -28,7 +28,7 @@ This is not just a personal ambition but a mission to empower individuals and he
   
 ---
 
-## Fun Facts :fun:
+## Fun Facts :bulb:
 
 - I’m curious about how technology works and love breaking down complex systems to understand them better.
 - other then coding, I enjoy playing volleyball, watching anime, camping, and skiing :skier:.
@@ -38,4 +38,4 @@ This is not just a personal ambition but a mission to empower individuals and he
 
 ## Thank you
 
-Thanks for visiting my GitHub and reading my first Readme! :smiling face: :people hugging:
+Thanks for visiting my GitHub and reading my first Readme! :sweat_smile: :handshake:

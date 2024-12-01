@@ -116,5 +116,11 @@
   "markdownlint.configPath": ".markdownlint.yml",
 
   // Enable/disable update table of contents on save
-  "markdown.extension.toc.updateOnSave": false
+  "markdown.extension.toc.updateOnSave": false,
+  "cSpell.words": [
+    "Faizi"
+  ],
+  "markdown.validate.ignoredLinks": [
+    "hamzafaizi134@gmail.com"
+  ]
 }

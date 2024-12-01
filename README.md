@@ -5,6 +5,7 @@
 ## **About Me**
 <!-- markdownlint-disable MD013 -->
 - Hi all :heart:, My Name is Hamza Faizi. I am originally from Afghanistan but was born in Washington State.Family and I returned to Afghanistan when I was 5 years old, I spent most of my life there. Two years ago, I returned back to United states and finished my High School through [Running Start Program](https://en.wikipedia.org/wiki/Running_Start). Now, I am here with my family in uae. :love:
+:anxious face with sweat:
 
 ---
 
@@ -15,7 +16,7 @@ By learning to code I will be able to solve complex problems, analyze data, and 
 
 ---
 
- ## My Goal :goal:
+ ## My Goal :roller coaster
 
 One of my goals is to create a free online resources and courses for people in Afghanistan and other underprivileged regions who don't have the means to attend universities and can not afford paid certifications. Through coding and data science, I aim to:
 
@@ -30,11 +31,11 @@ This is not just a personal ambition but a mission to empower individuals and he
 ## Fun Facts :fun:
 
 - I’m curious about how technology works and love breaking down complex systems to understand them better.
-- other then coding, I enjoy playing volleyball, watching anime, and camping.
-- I have been to 7 countries :shock:
+- other then coding, I enjoy playing volleyball, watching anime, camping, and skiing :skier:.
+- I have been to 7 countries :astonished face:
 
 ---
 
 ## Thank you
 
-Thanks for visiting my GitHub and reading my first Readme! :smile: :Thanks:
+Thanks for visiting my GitHub and reading my first Readme! :smiling face: :people hugging:
